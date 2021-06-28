@@ -1,0 +1,29 @@
+#avatar {
+    width: 4%;
+    height: 4%;
+    border-radius: 50%;
+}
+#apps {
+    width: 3%;
+    height: 3%;
+}
+.navbar {
+    position: fixed;
+    top: 0px;
+    width: 100%;
+    overflow: hidden;
+    background-color: rgba (0, 0, 0, 0,);
+}
+
+.navbar a {
+    float: right;
+    display: block;
+    color: black;
+    text-align: right;
+    padding: 5px 5px;
+    text-decoration: none;
+    margin: 0px;
+}
+body {
+    margin-top: 100px;
+}
